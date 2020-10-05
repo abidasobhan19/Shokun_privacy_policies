@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shokun_privacy_policies/static/css/main.d805107c.chunk.css",
+    "main.js": "/Shokun_privacy_policies/static/js/main.0530bed4.chunk.js",
+    "main.js.map": "/Shokun_privacy_policies/static/js/main.0530bed4.chunk.js.map",
+    "runtime-main.js": "/Shokun_privacy_policies/static/js/runtime-main.49173a9b.js",
+    "runtime-main.js.map": "/Shokun_privacy_policies/static/js/runtime-main.49173a9b.js.map",
+    "static/js/2.1191182e.chunk.js": "/Shokun_privacy_policies/static/js/2.1191182e.chunk.js",
+    "static/js/2.1191182e.chunk.js.map": "/Shokun_privacy_policies/static/js/2.1191182e.chunk.js.map",
+    "index.html": "/Shokun_privacy_policies/index.html",
+    "precache-manifest.393181b3765e05d2f91b84927eb68607.js": "/Shokun_privacy_policies/precache-manifest.393181b3765e05d2f91b84927eb68607.js",
+    "service-worker.js": "/Shokun_privacy_policies/service-worker.js",
+    "static/css/main.d805107c.chunk.css.map": "/Shokun_privacy_policies/static/css/main.d805107c.chunk.css.map",
+    "static/js/2.1191182e.chunk.js.LICENSE.txt": "/Shokun_privacy_policies/static/js/2.1191182e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49173a9b.js",
+    "static/js/2.1191182e.chunk.js",
+    "static/css/main.d805107c.chunk.css",
+    "static/js/main.0530bed4.chunk.js"
+  ]
+}
